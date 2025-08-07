@@ -107,7 +107,7 @@ Narrative Nexus is just the beginning. Here's what’s coming soon:
 ## ✍️ Author
 
 Written with 💡, ✍️, and ☕  
-**By Gabriel Roriz Silva**  
+**By 𐌔𐌉𐌂𐌊.dll**  
 [GitHub](#) <!-- Add your GitHub profile or repository URL here -->
 
 > 🕊️ *"Every story has a heart; let AI help you find its rhythm."*
